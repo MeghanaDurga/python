@@ -1,0 +1,9 @@
+x="hello,world"
+res=x.find('e')
+result=x.find('o')
+text=x.find('hello')
+z=x.find('r',7)
+print(res)
+print(result)
+print(text)
+print(z)
